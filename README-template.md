@@ -24,7 +24,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [Add solution URL here](https://coderrbro.github.io/Product-Card-Component/)
-- Live Site URL: [Add live site URL here](https://snazzy-croissant-2679db.netlify.app/)
+- Live Site URL: [Add live site URL here](https://testimonial-grid-car.netlify.app/)
 
 
 ### Built with
